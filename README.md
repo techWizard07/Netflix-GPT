@@ -1,4 +1,4 @@
- # NETFLIX GPT 
+ # NETFLIX GPT  - https://wizards-netflix-gpt.netlify.app/
 
  # first step
     -create react app
